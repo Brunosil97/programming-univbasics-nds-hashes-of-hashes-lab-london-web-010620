@@ -58,6 +58,10 @@ def naming_system
   }
 }
 
+<<<<<<< HEAD
+=======
+  naming_system
+>>>>>>> 7beff3fd3e15049ffa111809e7ff41734ce8ab7d
   
   # Remember:
   #  Kingdom
